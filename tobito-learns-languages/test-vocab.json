@@ -1,0 +1,17 @@
+[
+  {
+    "word": "hello",
+    "translation": "hallo",
+    "language": "en"
+  },
+  {
+    "word": "cat",
+    "translation": "Katze",
+    "language": "en"
+  },
+  {
+    "word": "beautiful",
+    "translation": "schön",
+    "language": "en"
+  }
+]

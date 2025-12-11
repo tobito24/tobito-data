@@ -1,0 +1,604 @@
+﻿[
+  {
+    "id": 1,
+    "translations": {
+      "en": {
+        "text": "hello",
+        "phonetic": "həˈloʊ",
+        "synonyms": [
+          "hi",
+          "hey"
+        ],
+        "examples": [
+          "Hello, how are you?"
+        ]
+      },
+      "de": {
+        "text": "hallo",
+        "phonetic": "ˈhaloː",
+        "synonyms": [
+          "hi",
+          "hey"
+        ],
+        "examples": [
+          "Hallo, wie geht\u0027s?"
+        ]
+      },
+      "es": {
+        "text": "hola",
+        "phonetic": "ˈola",
+        "synonyms": [
+          "buenas",
+          "saludos"
+        ],
+        "examples": [
+          "Hola, Â¿cÃ³mo estÃ¡s?"
+        ]
+      }
+    },
+    "tags": [
+      "greeting",
+      "basic"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 2,
+    "translations": {
+      "en": {
+        "text": "goodbye",
+        "phonetic": "ɡʊˈbaɪ",
+        "synonyms": [
+          "bye",
+          "farewell"
+        ],
+        "examples": [
+          "Goodbye, see you tomorrow."
+        ]
+      },
+      "de": {
+        "text": "auf Wiedersehen",
+        "phonetic": "aʊf ˈviːdəˌzeːən",
+        "synonyms": [
+          "tschÃ¼ss",
+          "leb wohl"
+        ],
+        "examples": [
+          "Auf Wiedersehen, bis morgen."
+        ]
+      },
+      "es": {
+        "text": "adiÃ³s",
+        "phonetic": "aˈðjos",
+        "synonyms": [
+          "chau",
+          "hasta luego"
+        ],
+        "examples": [
+          "AdiÃ³s, nos vemos maÃ±ana."
+        ]
+      }
+    },
+    "tags": [
+      "farewell",
+      "basic"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 3,
+    "translations": {
+      "en": {
+        "text": "please",
+        "phonetic": "pliːz",
+        "synonyms": [
+          "if you please",
+          "kindly"
+        ],
+        "examples": [
+          "Please pass the salt."
+        ]
+      },
+      "de": {
+        "text": "bitte",
+        "phonetic": "ˈbɪtə",
+        "synonyms": [
+          "freundlich",
+          "sei so gut"
+        ],
+        "examples": [
+          "Bitte reich mir das Salz."
+        ]
+      },
+      "es": {
+        "text": "por favor",
+        "phonetic": "poɹ faˈβoɹ",
+        "synonyms": [
+          "si eres tan amable",
+          "amablemente"
+        ],
+        "examples": [
+          "Por favor, pÃ¡same la sal."
+        ]
+      }
+    },
+    "tags": [
+      "politeness",
+      "basic"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 4,
+    "translations": {
+      "en": {
+        "text": "thank you",
+        "phonetic": "ˈθæŋk juː",
+        "synonyms": [
+          "thanks",
+          "much obliged"
+        ],
+        "examples": [
+          "Thank you for your help."
+        ]
+      },
+      "de": {
+        "text": "danke",
+        "phonetic": "ˈdæŋkə",
+        "synonyms": [
+          "vielen Dank",
+          "dankeschÃ¶n"
+        ],
+        "examples": [
+          "Danke fÃ¼r deine Hilfe."
+        ]
+      },
+      "es": {
+        "text": "gracias",
+        "phonetic": "ˈɡɾasjas",
+        "synonyms": [
+          "muchas gracias",
+          "te lo agradezco"
+        ],
+        "examples": [
+          "Gracias por tu ayuda."
+        ]
+      }
+    },
+    "tags": [
+      "politeness",
+      "basic"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 5,
+    "translations": {
+      "en": {
+        "text": "yes",
+        "phonetic": "jɛs",
+        "synonyms": [
+          "yep",
+          "sure"
+        ],
+        "examples": [
+          "Yes, I understand."
+        ]
+      },
+      "de": {
+        "text": "ja",
+        "phonetic": "ja",
+        "synonyms": [
+          "jawohl",
+          "genau"
+        ],
+        "examples": [
+          "Ja, ich verstehe."
+        ]
+      },
+      "es": {
+        "text": "sÃ­",
+        "phonetic": "si",
+        "synonyms": [
+          "claro",
+          "vale"
+        ],
+        "examples": [
+          "SÃ­, entiendo."
+        ]
+      }
+    },
+    "tags": [
+      "confirmation",
+      "basic"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 6,
+    "translations": {
+      "en": {
+        "text": "no",
+        "phonetic": "noʊ",
+        "synonyms": [
+          "nope",
+          "nah"
+        ],
+        "examples": [
+          "No, I don\u0027t want that."
+        ]
+      },
+      "de": {
+        "text": "nein",
+        "phonetic": "naɪ̯n",
+        "synonyms": [
+          "nÃ¶",
+          "keineswegs"
+        ],
+        "examples": [
+          "Nein, das mÃ¶chte ich nicht."
+        ]
+      },
+      "es": {
+        "text": "no",
+        "phonetic": "no",
+        "synonyms": [
+          "para nada",
+          "de ninguna manera"
+        ],
+        "examples": [
+          "No, no quiero eso."
+        ]
+      }
+    },
+    "tags": [
+      "negation",
+      "basic"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 7,
+    "translations": {
+      "en": {
+        "text": "sorry",
+        "phonetic": "ˈɓri",
+        "synonyms": [
+          "apologies",
+          "pardon"
+        ],
+        "examples": [
+          "Sorry, I\u0027m late."
+        ]
+      },
+      "de": {
+        "text": "entschuldigung",
+        "phonetic": "ɛntˈʃʊldɪɡʊŋ",
+        "synonyms": [
+          "verzeihung",
+          "sorry"
+        ],
+        "examples": [
+          "Entschuldigung, ich bin zu spÃ¤t."
+        ]
+      },
+      "es": {
+        "text": "lo siento",
+        "phonetic": "lo ˈsjento",
+        "synonyms": [
+          "perdÃ³n",
+          "disculpa"
+        ],
+        "examples": [
+          "Lo siento, llego tarde."
+        ]
+      }
+    },
+    "tags": [
+      "apology",
+      "basic"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 8,
+    "translations": {
+      "en": {
+        "text": "water",
+        "phonetic": "ˈwɔːtər",
+        "synonyms": [
+          "H2O",
+          "drinking water"
+        ],
+        "examples": [
+          "Can I have some water?"
+        ]
+      },
+      "de": {
+        "text": "Wasser",
+        "phonetic": "ˈvasə",
+        "synonyms": [
+          "Trinkwasser",
+          "H2O"
+        ],
+        "examples": [
+          "Kann ich etwas Wasser haben?"
+        ]
+      },
+      "es": {
+        "text": "agua",
+        "phonetic": "ˈaɣwa",
+        "synonyms": [
+          "agua potable",
+          "H2O"
+        ],
+        "examples": [
+          "Â¿Puedo tener un poco de agua?"
+        ]
+      }
+    },
+    "tags": [
+      "food",
+      "basic"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 9,
+    "translations": {
+      "en": {
+        "text": "bread",
+        "phonetic": "brɛd",
+        "synonyms": [
+          "loaf",
+          "bun"
+        ],
+        "examples": [
+          "I would like some bread."
+        ]
+      },
+      "de": {
+        "text": "Brot",
+        "phonetic": "broːt",
+        "synonyms": [
+          "Laib",
+          "Semmel"
+        ],
+        "examples": [
+          "Ich hÃ¤tte gern etwas Brot."
+        ]
+      },
+      "es": {
+        "text": "pan",
+        "phonetic": "pan",
+        "synonyms": [
+          "barra",
+          "bollo"
+        ],
+        "examples": [
+          "Quisiera un poco de pan."
+        ]
+      }
+    },
+    "tags": [
+      "food",
+      "basic"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 10,
+    "translations": {
+      "en": {
+        "text": "coffee",
+        "phonetic": "ˈkɔːfi",
+        "synonyms": [
+          "espresso",
+          "brew"
+        ],
+        "examples": [
+          "I drink coffee every morning."
+        ]
+      },
+      "de": {
+        "text": "Kaffee",
+        "phonetic": "ˈkafeː",
+        "synonyms": [
+          "Espresso",
+          "Filterkaffee"
+        ],
+        "examples": [
+          "Ich trinke jeden Morgen Kaffee."
+        ]
+      },
+      "es": {
+        "text": "cafÃ©",
+        "phonetic": "kaˈfe",
+        "synonyms": [
+          "espresso",
+          "tinto"
+        ],
+        "examples": [
+          "Tomo cafÃ© cada maÃ±ana."
+        ]
+      }
+    },
+    "tags": [
+      "drink",
+      "basic"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 11,
+    "translations": {
+      "en": {
+        "text": "friend",
+        "phonetic": "frɛnd",
+        "synonyms": [
+          "buddy",
+          "pal"
+        ],
+        "examples": [
+          "She is my friend."
+        ]
+      },
+      "de": {
+        "text": "Freund",
+        "phonetic": "fʁɔʏ̯nt",
+        "synonyms": [
+          "Kumpel",
+          "Bekannter"
+        ],
+        "examples": [
+          "Sie ist meine Freundin."
+        ]
+      },
+      "es": {
+        "text": "amigo",
+        "phonetic": "aˈmiɣo",
+        "synonyms": [
+          "compaÃ±ero",
+          "colega"
+        ],
+        "examples": [
+          "Ella es mi amiga."
+        ]
+      }
+    },
+    "tags": [
+      "people",
+      "basic"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 12,
+    "translations": {
+      "en": {
+        "text": "family",
+        "phonetic": "ˈfæməli",
+        "synonyms": [
+          "relatives",
+          "kin"
+        ],
+        "examples": [
+          "My family is large."
+        ]
+      },
+      "de": {
+        "text": "Familie",
+        "phonetic": "faˈmiːli̯ə",
+        "synonyms": [
+          "Verwandtschaft",
+          "AngehÃ¶rige"
+        ],
+        "examples": [
+          "Meine Familie ist groÃŸ."
+        ]
+      },
+      "es": {
+        "text": "familia",
+        "phonetic": "faˈmilja",
+        "synonyms": [
+          "parientes",
+          "seres queridos"
+        ],
+        "examples": [
+          "Mi familia es grande."
+        ]
+      }
+    },
+    "tags": [
+      "people",
+      "basic"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 13,
+    "translations": {
+      "en": {
+        "text": "school",
+        "phonetic": "skuːl",
+        "synonyms": [
+          "academy",
+          "education"
+        ],
+        "examples": [
+          "The school is nearby."
+        ]
+      },
+      "de": {
+        "text": "Schule",
+        "phonetic": "ˈʃuːlə",
+        "synonyms": [
+          "Bildungseinrichtung",
+          "Lehranstalt"
+        ],
+        "examples": [
+          "Die Schule ist in der NÃ¤he."
+        ]
+      },
+      "es": {
+        "text": "escuela",
+        "phonetic": "esˈkwela",
+        "synonyms": [
+          "colegio",
+          "instituto"
+        ],
+        "examples": [
+          "La escuela estÃ¡ cerca."
+        ]
+      }
+    },
+    "tags": [
+      "education",
+      "basic"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 14,
+    "translations": {
+      "en": {
+        "text": "book",
+        "phonetic": "bʊk",
+        "synonyms": [
+          "volume",
+          "novel"
+        ],
+        "examples": [
+          "I am reading a book."
+        ]
+      },
+      "de": {
+        "text": "Buch",
+        "phonetic": "buːx",
+        "synonyms": [
+          "SchmÃ¶ker",
+          "Werk"
+        ],
+        "examples": [
+          "Ich lese ein Buch."
+        ]
+      },
+      "es": {
+        "text": "libro",
+        "phonetic": "ˈliβɾo",
+        "synonyms": [
+          "tomo",
+          "novela"
+        ],
+        "examples": [
+          "Estoy leyendo un libro."
+        ]
+      }
+    },
+    "tags": [
+      "education",
+      "basic"
+    ],
+    "level": "A1"
+  }
+]

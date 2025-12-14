@@ -3,36 +3,1723 @@
     "id": 1,
     "translations": {
       "en": {
-        "text": "hello",
-        "phonetic": "həˈloʊ",
+        "text": "supermarket",
+        "phonetic": "/ˈsuːpərˌmɑːrkɪt/",
         "synonyms": [
-          "hi",
+          "grocery store"
+        ],
+        "examples": [
+          "I’m going to the supermarket after work."
+        ]
+      },
+      "de": {
+        "text": "Supermarkt",
+        "phonetic": "/ˈzuːpɐˌmaʁkt/",
+        "synonyms": [
+          "Lebensmittelladen"
+        ],
+        "examples": [
+          "Ich gehe nach der Arbeit in den Supermarkt."
+        ]
+      },
+      "es": {
+        "text": "supermercado",
+        "phonetic": "/supeɾmeɾˈkaðo/",
+        "synonyms": [
+          "tienda de comestibles"
+        ],
+        "examples": [
+          "Voy al supermercado después del trabajo."
+        ]
+      }
+    },
+    "tags": [
+      "place",
+      "shopping"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 2,
+    "translations": {
+      "en": {
+        "text": "closed",
+        "phonetic": "/kloʊzd/",
+        "synonyms": [
+          "shut"
+        ],
+        "examples": [
+          "The store is closed on Sundays."
+        ]
+      },
+      "de": {
+        "text": "geschlossen",
+        "phonetic": "/ɡəˈʃlɔsən/",
+        "synonyms": [
+          "zu"
+        ],
+        "examples": [
+          "Der Laden ist sonntags geschlossen."
+        ]
+      },
+      "es": {
+        "text": "cerrado",
+        "phonetic": "/seˈraðo/",
+        "synonyms": [
+          "clausurado"
+        ],
+        "examples": [
+          "La tienda está cerrada los domingos."
+        ]
+      }
+    },
+    "tags": [
+      "adjective",
+      "state"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 3,
+    "translations": {
+      "en": {
+        "text": "bank, banks",
+        "phonetic": "/bæŋk, bæŋks/",
+        "synonyms": [
+          "financial institution"
+        ],
+        "examples": [
+          "I have an appointment at the bank."
+        ]
+      },
+      "de": {
+        "text": "Bank",
+        "phonetic": "/baŋk/",
+        "synonyms": [
+          "Kreditinstitut"
+        ],
+        "examples": [
+          "Ich bin gerade in der Bank."
+        ]
+      },
+      "es": {
+        "text": "banco",
+        "phonetic": "/ˈbaŋko/",
+        "synonyms": [
+          "entidad financiera"
+        ],
+        "examples": [
+          "Estoy en el banco."
+        ]
+      }
+    },
+    "tags": [
+      "place",
+      "money"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 4,
+    "translations": {
+      "en": {
+        "text": "street",
+        "phonetic": "/striːt/",
+        "synonyms": [
+          "road"
+        ],
+        "examples": [
+          "There’s a café across the street."
+        ]
+      },
+      "de": {
+        "text": "Straße",
+        "phonetic": "/ˈʃtʁaːsə/",
+        "synonyms": [
+          "Straße",
+          "Weg"
+        ],
+        "examples": [
+          "Ich warte auf dich auf der Straße."
+        ]
+      },
+      "es": {
+        "text": "calle",
+        "phonetic": "/ˈkaʝe/",
+        "synonyms": [
+          "vía"
+        ],
+        "examples": [
+          "La tienda está al final de la calle."
+        ]
+      }
+    },
+    "tags": [
+      "place",
+      "city"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 5,
+    "translations": {
+      "en": {
+        "text": "bathroom",
+        "phonetic": "/ˈbæθˌruːm/",
+        "synonyms": [
+          "restroom"
+        ],
+        "examples": [
+          "The bathroom is down the hall on the left."
+        ]
+      },
+      "de": {
+        "text": "Bad",
+        "phonetic": "/baːt/",
+        "synonyms": [
+          "Badezimmer"
+        ],
+        "examples": [
+          "Das Bad ist am Ende des Flurs."
+        ]
+      },
+      "es": {
+        "text": "baño",
+        "phonetic": "/ˈbaɲo/",
+        "synonyms": [
+          "baño",
+          "servicio"
+        ],
+        "examples": [
+          "El baño está al fondo a la izquierda."
+        ]
+      }
+    },
+    "tags": [
+      "place",
+      "house"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 6,
+    "translations": {
+      "en": {
+        "text": "hospital, hospitals",
+        "phonetic": "/ˈhɑːspɪtəl, ˈhɑːspɪtəlz/",
+        "synonyms": [
+          "medical center"
+        ],
+        "examples": [
+          "She works at the hospital downtown."
+        ]
+      },
+      "de": {
+        "text": "Krankenhaus",
+        "phonetic": "/ˈkʁaŋkn̩ˌhaʊs/",
+        "synonyms": [
+          "Spital"
+        ],
+        "examples": [
+          "Er arbeitet im Krankenhaus."
+        ]
+      },
+      "es": {
+        "text": "hospital",
+        "phonetic": "/ospiˈtal/",
+        "synonyms": [
+          "centro médico"
+        ],
+        "examples": [
+          "Trabajo en el hospital del centro."
+        ]
+      }
+    },
+    "tags": [
+      "place",
+      "health"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 7,
+    "translations": {
+      "en": {
+        "text": "museum, museums",
+        "phonetic": "/mjuˈziːəm, mjuˈziːəmz/",
+        "synonyms": [
+          "gallery"
+        ],
+        "examples": [
+          "We visited the art museum yesterday."
+        ]
+      },
+      "de": {
+        "text": "Museum",
+        "phonetic": "/muˈzeːʊm/",
+        "synonyms": [
+          "Ausstellungshaus"
+        ],
+        "examples": [
+          "Wir waren gestern im Museum."
+        ]
+      },
+      "es": {
+        "text": "museo",
+        "phonetic": "/muˈseo/",
+        "synonyms": [
+          "galería"
+        ],
+        "examples": [
+          "Ayer visitamos el museo."
+        ]
+      }
+    },
+    "tags": [
+      "place",
+      "culture"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 8,
+    "translations": {
+      "en": {
+        "text": "your",
+        "phonetic": "/jʊr/",
+        "synonyms": [
+          "your (possessive determiner)"
+        ],
+        "examples": [
+          "Is this your jacket?"
+        ]
+      },
+      "de": {
+        "text": "dein",
+        "phonetic": "/daɪ̯n/",
+        "synonyms": [
+          "deine"
+        ],
+        "examples": [
+          "Ist das dein Buch?"
+        ]
+      },
+      "es": {
+        "text": "tu",
+        "phonetic": "/tu/",
+        "synonyms": [
+          "tuyo (adj.)"
+        ],
+        "examples": [
+          "¿Es este tu abrigo?"
+        ]
+      }
+    },
+    "tags": [
+      "pronoun",
+      "possessive",
+      "grammar"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 9,
+    "translations": {
+      "en": {
+        "text": "train",
+        "phonetic": "/treɪn/",
+        "synonyms": [
+          "railway train"
+        ],
+        "examples": [
+          "The train arrives at six o’clock."
+        ]
+      },
+      "de": {
+        "text": "Zug",
+        "phonetic": "/tsuːk/",
+        "synonyms": [
+          "Bahn"
+        ],
+        "examples": [
+          "Der Zug kommt um sechs Uhr an."
+        ]
+      },
+      "es": {
+        "text": "tren",
+        "phonetic": "/tɾen/",
+        "synonyms": [
+          "ferrocarril"
+        ],
+        "examples": [
+          "El tren llega a las seis."
+        ]
+      }
+    },
+    "tags": [
+      "transport"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 10,
+    "translations": {
+      "en": {
+        "text": "bus",
+        "phonetic": "/bʌs/",
+        "synonyms": [
+          "coach"
+        ],
+        "examples": [
+          "We took the bus to the city center."
+        ]
+      },
+      "de": {
+        "text": "Bus",
+        "phonetic": "/bʊs/",
+        "synonyms": [
+          "Omnibus"
+        ],
+        "examples": [
+          "Wir sind mit dem Bus ins Zentrum gefahren."
+        ]
+      },
+      "es": {
+        "text": "autobús",
+        "phonetic": "/autoˈβus/",
+        "synonyms": [
+          "ómnibus",
+          "bus"
+        ],
+        "examples": [
+          "Tomamos el autobús al centro."
+        ]
+      }
+    },
+    "tags": [
+      "transport"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 11,
+    "translations": {
+      "en": {
+        "text": "airport",
+        "phonetic": "/ˈɛərˌpɔːrt/",
+        "synonyms": [
+          "airfield"
+        ],
+        "examples": [
+          "My flight leaves from the main airport."
+        ]
+      },
+      "de": {
+        "text": "Flughafen",
+        "phonetic": "/ˈfluːkˌhaːfən/",
+        "synonyms": [
+          "Airport"
+        ],
+        "examples": [
+          "Mein Flug geht vom Flughafen Berlin."
+        ]
+      },
+      "es": {
+        "text": "aeropuerto",
+        "phonetic": "/aeɾoˈpweɾto/",
+        "synonyms": [
+          "terminal aérea"
+        ],
+        "examples": [
+          "Mi vuelo sale del aeropuerto principal."
+        ]
+      }
+    },
+    "tags": [
+      "place",
+      "transport"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 12,
+    "translations": {
+      "en": {
+        "text": "ticket",
+        "phonetic": "/ˈtɪkɪt/",
+        "synonyms": [
+          "pass"
+        ],
+        "examples": [
+          "I bought a train ticket online."
+        ]
+      },
+      "de": {
+        "text": "Ticket",
+        "phonetic": "/ˈtɪkɛt/",
+        "synonyms": [
+          "Fahrkarte"
+        ],
+        "examples": [
+          "Ich habe das Ticket online gekauft."
+        ]
+      },
+      "es": {
+        "text": "boleto",
+        "phonetic": "/boˈleto/",
+        "synonyms": [
+          "entrada",
+          "pasaje"
+        ],
+        "examples": [
+          "Compré el boleto por internet."
+        ]
+      }
+    },
+    "tags": [
+      "object",
+      "travel"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 13,
+    "translations": {
+      "en": {
+        "text": "to, with, away",
+        "phonetic": "/tuː; wɪð; əˈweɪ/",
+        "synonyms": [
+          "toward",
+          "along with"
+        ],
+        "examples": [
+          "We’re going to the park with friends."
+        ]
+      },
+      "de": {
+        "text": "zu",
+        "phonetic": "/tsuː/",
+        "synonyms": [
+          "nach (Richtung)"
+        ],
+        "examples": [
+          "Wir gehen zu meinen Freunden."
+        ]
+      },
+      "es": {
+        "text": "a",
+        "phonetic": "/a/",
+        "synonyms": [
+          "hacia"
+        ],
+        "examples": [
+          "Vamos a la plaza con Ana."
+        ]
+      }
+    },
+    "tags": [
+      "preposition",
+      "grammar"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 14,
+    "translations": {
+      "en": {
+        "text": "money",
+        "phonetic": "/ˈmʌni/",
+        "synonyms": [
+          "cash"
+        ],
+        "examples": [
+          "I don’t have enough money today."
+        ]
+      },
+      "de": {
+        "text": "Geld",
+        "phonetic": "/ɡɛlt/",
+        "synonyms": [
+          "Bargeld"
+        ],
+        "examples": [
+          "Ich habe heute nicht genug Geld."
+        ]
+      },
+      "es": {
+        "text": "dinero",
+        "phonetic": "/diˈneɾo/",
+        "synonyms": [
+          "plata"
+        ],
+        "examples": [
+          "No tengo suficiente dinero hoy."
+        ]
+      }
+    },
+    "tags": [
+      "money",
+      "object"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 15,
+    "translations": {
+      "en": {
+        "text": "where",
+        "phonetic": "/wɛr/",
+        "synonyms": [
+          "in what place"
+        ],
+        "examples": [
+          "Where are you from?"
+        ]
+      },
+      "de": {
+        "text": "wo",
+        "phonetic": "/voː/",
+        "synonyms": [
+          "an welchem Ort"
+        ],
+        "examples": [
+          "Wo kommst du her?"
+        ]
+      },
+      "es": {
+        "text": "dónde",
+        "phonetic": "/ˈdonde/",
+        "synonyms": [
+          "en qué lugar"
+        ],
+        "examples": [
+          "¿De dónde eres?"
+        ]
+      }
+    },
+    "tags": [
+      "question",
+      "grammar"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 16,
+    "translations": {
+      "en": {
+        "text": "reservation",
+        "phonetic": "/ˌrɛzərˈveɪʃən/",
+        "synonyms": [
+          "booking"
+        ],
+        "examples": [
+          "I’d like to make a reservation for two."
+        ]
+      },
+      "de": {
+        "text": "Reservierung",
+        "phonetic": "/ʁezɛʁˈviːʁʊŋ/",
+        "synonyms": [
+          "Buchung"
+        ],
+        "examples": [
+          "Ich möchte eine Reservierung für zwei Personen machen."
+        ]
+      },
+      "es": {
+        "text": "reserva",
+        "phonetic": "/reˈseɾβa/",
+        "synonyms": [
+          "booking"
+        ],
+        "examples": [
+          "Quisiera hacer una reserva para dos."
+        ]
+      }
+    },
+    "tags": [
+      "travel",
+      "object"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 17,
+    "translations": {
+      "en": {
+        "text": "I've got, is there, I'm having",
+        "phonetic": "/aɪv ɡɑːt; ɪz ðɛr; aɪm ˈhævɪŋ/",
+        "synonyms": [
+          "I have",
+          "do we have"
+        ],
+        "examples": [
+          "I’ve got a question—Is there a restroom here?"
+        ]
+      },
+      "de": {
+        "text": "ich habe",
+        "phonetic": "/ɪç ˈhaːbə/",
+        "synonyms": [
+          "habe"
+        ],
+        "examples": [
+          "Ich habe eine Frage – gibt es hier eine Toilette?"
+        ]
+      },
+      "es": {
+        "text": "tengo",
+        "phonetic": "/ˈteŋɡo/",
+        "synonyms": [
+          "poseo"
+        ],
+        "examples": [
+          "Tengo una pregunta: ¿hay un baño aquí?"
+        ]
+      }
+    },
+    "tags": [
+      "verb",
+      "have"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 18,
+    "translations": {
+      "en": {
+        "text": "it is",
+        "phonetic": "/ɪt ɪz/",
+        "synonyms": [
+          "it’s"
+        ],
+        "examples": [
+          "It is very cold today."
+        ]
+      },
+      "de": {
+        "text": "es ist",
+        "phonetic": "/ɛs ɪst/",
+        "synonyms": [
+          "ist"
+        ],
+        "examples": [
+          "Es ist heute sehr kalt."
+        ]
+      },
+      "es": {
+        "text": "está",
+        "phonetic": "/esˈta/",
+        "synonyms": [
+          "está"
+        ],
+        "examples": [
+          "Está muy frío hoy."
+        ]
+      }
+    },
+    "tags": [
+      "verb",
+      "be"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 19,
+    "translations": {
+      "en": {
+        "text": "here",
+        "phonetic": "/hɪr/",
+        "synonyms": [
+          "at this place"
+        ],
+        "examples": [
+          "Please wait here."
+        ]
+      },
+      "de": {
+        "text": "hier",
+        "phonetic": "/hiːɐ̯/",
+        "synonyms": [
+          "an diesem Ort"
+        ],
+        "examples": [
+          "Bitte warte hier."
+        ]
+      },
+      "es": {
+        "text": "aquí",
+        "phonetic": "/aˈki/",
+        "synonyms": [
+          "en este lugar"
+        ],
+        "examples": [
+          "Espera aquí, por favor."
+        ]
+      }
+    },
+    "tags": [
+      "place",
+      "adverb"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 20,
+    "translations": {
+      "en": {
+        "text": "hotel, hotels",
+        "phonetic": "/hoʊˈtɛl, hoʊˈtɛlz/",
+        "synonyms": [
+          "inn"
+        ],
+        "examples": [
+          "We’re staying at a small hotel near the station."
+        ]
+      },
+      "de": {
+        "text": "Hotel",
+        "phonetic": "/hoˈtɛl/",
+        "synonyms": [
+          "Gasthaus"
+        ],
+        "examples": [
+          "Wir übernachten in einem Hotel am Bahnhof."
+        ]
+      },
+      "es": {
+        "text": "hotel",
+        "phonetic": "/oˈtel/",
+        "synonyms": [
+          "hostal"
+        ],
+        "examples": [
+          "Nos alojamos en un hotel cerca de la estación."
+        ]
+      }
+    },
+    "tags": [
+      "place",
+      "accommodation"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 21,
+    "translations": {
+      "en": {
+        "text": "in",
+        "phonetic": "/ɪn/",
+        "synonyms": [
+          "inside"
+        ],
+        "examples": [
+          "The keys are in my bag."
+        ]
+      },
+      "de": {
+        "text": "in",
+        "phonetic": "/ɪn/",
+        "synonyms": [
+          "drin"
+        ],
+        "examples": [
+          "Die Schlüssel sind in meiner Tasche."
+        ]
+      },
+      "es": {
+        "text": "en",
+        "phonetic": "/en/",
+        "synonyms": [
+          "dentro de"
+        ],
+        "examples": [
+          "Las llaves están en mi bolso."
+        ]
+      }
+    },
+    "tags": [
+      "preposition",
+      "grammar"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 22,
+    "translations": {
+      "en": {
+        "text": "suitcase",
+        "phonetic": "/ˈsuːtˌkeɪs/",
+        "synonyms": [
+          "luggage"
+        ],
+        "examples": [
+          "My suitcase is too heavy."
+        ]
+      },
+      "de": {
+        "text": "Koffer",
+        "phonetic": "/ˈkɔfɐ/",
+        "synonyms": [
+          "Reisekoffer"
+        ],
+        "examples": [
+          "Mein Koffer ist zu schwer."
+        ]
+      },
+      "es": {
+        "text": "maleta",
+        "phonetic": "/maˈleta/",
+        "synonyms": [
+          "equipaje"
+        ],
+        "examples": [
+          "Mi maleta pesa demasiado."
+        ]
+      }
+    },
+    "tags": [
+      "object",
+      "travel"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 23,
+    "translations": {
+      "en": {
+        "text": "passport",
+        "phonetic": "/ˈpæspɔːrt/",
+        "synonyms": [
+          "travel document"
+        ],
+        "examples": [
+          "Don’t forget your passport."
+        ]
+      },
+      "de": {
+        "text": "Pass",
+        "phonetic": "/pas/",
+        "synonyms": [
+          "Reisepass"
+        ],
+        "examples": [
+          "Vergiss deinen Pass nicht."
+        ]
+      },
+      "es": {
+        "text": "pasaporte",
+        "phonetic": "/pasaˈpoɾte/",
+        "synonyms": [
+          "documento de viaje"
+        ],
+        "examples": [
+          "No olvides tu pasaporte."
+        ]
+      }
+    },
+    "tags": [
+      "object",
+      "travel"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 24,
+    "translations": {
+      "en": {
+        "text": "my",
+        "phonetic": "/maɪ/",
+        "synonyms": [
+          "mine (det.)"
+        ],
+        "examples": [
+          "My brother lives in Berlin."
+        ]
+      },
+      "de": {
+        "text": "mein",
+        "phonetic": "/maɪ̯n/",
+        "synonyms": [
+          "meine"
+        ],
+        "examples": [
+          "Mein Bruder wohnt in Berlin."
+        ]
+      },
+      "es": {
+        "text": "mi",
+        "phonetic": "/mi/",
+        "synonyms": [
+          "mío (adj.)"
+        ],
+        "examples": [
+          "Mi hermano vive en Berlín."
+        ]
+      }
+    },
+    "tags": [
+      "pronoun",
+      "possessive",
+      "grammar"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 25,
+    "translations": {
+      "en": {
+        "text": "phone",
+        "phonetic": "/foʊn/",
+        "synonyms": [
+          "telephone"
+        ],
+        "examples": [
+          "I left my phone at home."
+        ]
+      },
+      "de": {
+        "text": "Telefon",
+        "phonetic": "/ˈteːlefoːn/",
+        "synonyms": [
+          "Handy",
+          "Telefonapparat"
+        ],
+        "examples": [
+          "Ich habe mein Telefon zu Hause gelassen."
+        ]
+      },
+      "es": {
+        "text": "teléfono",
+        "phonetic": "/teˈlefono/",
+        "synonyms": [
+          "móvil",
+          "celular"
+        ],
+        "examples": [
+          "Dejé el teléfono en casa."
+        ]
+      }
+    },
+    "tags": [
+      "object",
+      "technology"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 26,
+    "translations": {
+      "en": {
+        "text": "need, (I) need, (?) do I need",
+        "phonetic": "/niːd; aɪ niːd; duː aɪ niːd/",
+        "synonyms": [
+          "require"
+        ],
+        "examples": [
+          "I need a ticket to Munich."
+        ]
+      },
+      "de": {
+        "text": "ich brauche",
+        "phonetic": "/ɪç ˈbʁaʊ̯xə/",
+        "synonyms": [
+          "benötige"
+        ],
+        "examples": [
+          "Ich brauche ein Ticket nach München."
+        ]
+      },
+      "es": {
+        "text": "necesito",
+        "phonetic": "/neseˈsito/",
+        "synonyms": [
+          "requiero"
+        ],
+        "examples": [
+          "Necesito un boleto a Múnich."
+        ]
+      }
+    },
+    "tags": [
+      "verb",
+      "need"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 27,
+    "translations": {
+      "en": {
+        "text": "taxi, cab",
+        "phonetic": "/ˈtæksi/",
+        "synonyms": [
+          "cab"
+        ],
+        "examples": [
+          "Let’s take a taxi to the hotel."
+        ]
+      },
+      "de": {
+        "text": "Taxi",
+        "phonetic": "/ˈtaksi/",
+        "synonyms": [
+          "Mietwagen"
+        ],
+        "examples": [
+          "Lass uns ein Taxi zum Hotel nehmen."
+        ]
+      },
+      "es": {
+        "text": "taxi",
+        "phonetic": "/ˈtaksi/",
+        "synonyms": [
+          "coche",
+          "auto (de taxi)"
+        ],
+        "examples": [
+          "Tomemos un taxi al hotel."
+        ]
+      }
+    },
+    "tags": [
+      "transport"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 28,
+    "translations": {
+      "en": {
+        "text": "Spanish, Spaniard, Spanish man",
+        "phonetic": "/ˈspænɪʃ/",
+        "synonyms": [
+          "Castilian (language)"
+        ],
+        "examples": [
+          "I speak a little Spanish."
+        ]
+      },
+      "de": {
+        "text": "Spanisch",
+        "phonetic": "/ˈʃpaːnɪʃ/",
+        "synonyms": [
+          "Kastilisch"
+        ],
+        "examples": [
+          "Ich spreche ein bisschen Spanisch."
+        ]
+      },
+      "es": {
+        "text": "español",
+        "phonetic": "/espaˈɲol/",
+        "synonyms": [
+          "castellano"
+        ],
+        "examples": [
+          "Hablo un poco de español."
+        ]
+      }
+    },
+    "tags": [
+      "language",
+      "nationality"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 29,
+    "translations": {
+      "en": {
+        "text": "(I) am talking, speak, talking",
+        "phonetic": "/aɪ æm ˈtɔːkɪŋ; spiːk/",
+        "synonyms": [
+          "say",
+          "converse"
+        ],
+        "examples": [
+          "I speak English at work."
+        ]
+      },
+      "de": {
+        "text": "ich spreche",
+        "phonetic": "/ɪç ˈʃpʁɛçə/",
+        "synonyms": [
+          "rede"
+        ],
+        "examples": [
+          "Ich spreche Deutsch und Englisch."
+        ]
+      },
+      "es": {
+        "text": "hablo",
+        "phonetic": "/ˈaβlo/",
+        "synonyms": [
+          "converso"
+        ],
+        "examples": [
+          "Hablo inglés en el trabajo."
+        ]
+      }
+    },
+    "tags": [
+      "verb",
+      "speak"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 30,
+    "translations": {
+      "en": {
+        "text": "(?) do you speak, speak, talking",
+        "phonetic": "/duː juː spiːk/",
+        "synonyms": [
+          "can you speak"
+        ],
+        "examples": [
+          "Do you speak German?"
+        ]
+      },
+      "de": {
+        "text": "du sprichst",
+        "phonetic": "/duː ˈʃpʁɪçst/",
+        "synonyms": [
+          "kannst du sprechen"
+        ],
+        "examples": [
+          "Sprichst du Deutsch?"
+        ]
+      },
+      "es": {
+        "text": "hablas",
+        "phonetic": "/ˈaβlas/",
+        "synonyms": [
+          "puedes hablar"
+        ],
+        "examples": [
+          "¿Hablas alemán?"
+        ]
+      }
+    },
+    "tags": [
+      "verb",
+      "speak"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 31,
+    "translations": {
+      "en": {
+        "text": "excuse me, excuse!, (I/he/she/it/you) excuse",
+        "phonetic": "/ɪkˈskjuːz miː/",
+        "synonyms": [
+          "pardon me"
+        ],
+        "examples": [
+          "Excuse me, where is the restroom?"
+        ]
+      },
+      "de": {
+        "text": "Entschuldigung",
+        "phonetic": "/ɛntˈʃʊldɪɡʊŋ/",
+        "synonyms": [
+          "Verzeihung"
+        ],
+        "examples": [
+          "Entschuldigung, wo ist die Toilette?"
+        ]
+      },
+      "es": {
+        "text": "disculpe",
+        "phonetic": "/disˈkulpe/",
+        "synonyms": [
+          "perdón"
+        ],
+        "examples": [
+          "Disculpe, ¿dónde está el baño?"
+        ]
+      }
+    },
+    "tags": [
+      "politeness",
+      "expression"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 32,
+    "translations": {
+      "en": {
+        "text": "English, British, Englishman",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "synonyms": [
+          "the English language"
+        ],
+        "examples": [
+          "Do you speak English?"
+        ]
+      },
+      "de": {
+        "text": "Englisch",
+        "phonetic": "/ˈɛŋlɪʃ/",
+        "synonyms": [
+          "die englische Sprache"
+        ],
+        "examples": [
+          "Sprichst du Englisch?"
+        ]
+      },
+      "es": {
+        "text": "inglés",
+        "phonetic": "/iŋˈɡles/",
+        "synonyms": [
+          "idioma inglés"
+        ],
+        "examples": [
+          "¿Hablas inglés?"
+        ]
+      }
+    },
+    "tags": [
+      "language",
+      "nationality"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 33,
+    "translations": {
+      "en": {
+        "text": "do not, wasn't, n't",
+        "phonetic": "/duː nɑːt/",
+        "synonyms": [
+          "don’t"
+        ],
+        "examples": [
+          "I do not understand."
+        ]
+      },
+      "de": {
+        "text": "nicht",
+        "phonetic": "/nɪçt/",
+        "synonyms": [
+          "kein (neg.)"
+        ],
+        "examples": [
+          "Ich verstehe nicht."
+        ]
+      },
+      "es": {
+        "text": "no",
+        "phonetic": "/no/",
+        "synonyms": [
+          "en absoluto"
+        ],
+        "examples": [
+          "No entiendo."
+        ]
+      }
+    },
+    "tags": [
+      "negation",
+      "grammar"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 34,
+    "translations": {
+      "en": {
+        "text": "yes, yourself",
+        "phonetic": "/jɛs/",
+        "synonyms": [
+          "yeah"
+        ],
+        "examples": [
+          "Yes, I’d love some coffee."
+        ]
+      },
+      "de": {
+        "text": "ja",
+        "phonetic": "/jaː/",
+        "synonyms": [
+          "jawohl"
+        ],
+        "examples": [
+          "Ja, gerne."
+        ]
+      },
+      "es": {
+        "text": "sí",
+        "phonetic": "/si/",
+        "synonyms": [
+          "claro"
+        ],
+        "examples": [
+          "Sí, me encantaría."
+        ]
+      }
+    },
+    "tags": [
+      "answer",
+      "grammar"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 35,
+    "translations": {
+      "en": {
+        "text": "please",
+        "phonetic": "/pliːz/",
+        "synonyms": [
+          "kindly"
+        ],
+        "examples": [
+          "A table for two, please."
+        ]
+      },
+      "de": {
+        "text": "bitte",
+        "phonetic": "/ˈbɪtə/",
+        "synonyms": [
+          "freundlicherweise"
+        ],
+        "examples": [
+          "Ein Tisch für zwei, bitte."
+        ]
+      },
+      "es": {
+        "text": "por favor",
+        "phonetic": "/poɾ faˈβoɾ/",
+        "synonyms": [
+          "por gentileza"
+        ],
+        "examples": [
+          "Una mesa para dos, por favor."
+        ]
+      }
+    },
+    "tags": [
+      "politeness",
+      "expression"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 36,
+    "translations": {
+      "en": {
+        "text": "you're welcome, you are welcome",
+        "phonetic": "/jʊr ˈwɛlkəm/",
+        "synonyms": [
+          "no problem"
+        ],
+        "examples": [
+          "—Thanks! —You’re welcome."
+        ]
+      },
+      "de": {
+        "text": "gern geschehen",
+        "phonetic": "/ˈɡɛʁn ɡəˈʃeːən/",
+        "synonyms": [
+          "keine Ursache"
+        ],
+        "examples": [
+          "—Danke! —Gern geschehen."
+        ]
+      },
+      "es": {
+        "text": "de nada",
+        "phonetic": "/de ˈnaða/",
+        "synonyms": [
+          "no hay de qué"
+        ],
+        "examples": [
+          "—¡Gracias! —De nada."
+        ]
+      }
+    },
+    "tags": [
+      "politeness",
+      "expression"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 37,
+    "translations": {
+      "en": {
+        "text": "sorry, excuse me, pardon",
+        "phonetic": "/ˈsɔːri/",
+        "synonyms": [
+          "pardon"
+        ],
+        "examples": [
+          "Sorry, I didn’t see you."
+        ]
+      },
+      "de": {
+        "text": "es tut mir leid",
+        "phonetic": "/ɛs tuːt miːɐ̯ laɪ̯t/",
+        "synonyms": [
+          "Entschuldigung"
+        ],
+        "examples": [
+          "Es tut mir leid, ich habe dich nicht gesehen."
+        ]
+      },
+      "es": {
+        "text": "perdón",
+        "phonetic": "/peɾˈðon/",
+        "synonyms": [
+          "disculpa"
+        ],
+        "examples": [
+          "Perdón, no te vi."
+        ]
+      }
+    },
+    "tags": [
+      "apology",
+      "politeness"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 38,
+    "translations": {
+      "en": {
+        "text": "sorry, I am sorry",
+        "phonetic": "/ˈsɔːri/",
+        "synonyms": [
+          "my apologies"
+        ],
+        "examples": [
+          "I’m sorry for the delay."
+        ]
+      },
+      "de": {
+        "text": "es tut mir leid",
+        "phonetic": "/ɛs tuːt miːɐ̯ laɪ̯t/",
+        "synonyms": [
+          "Verzeihung"
+        ],
+        "examples": [
+          "Es tut mir leid wegen der Verspätung."
+        ]
+      },
+      "es": {
+        "text": "lo siento",
+        "phonetic": "/lo ˈsjento/",
+        "synonyms": [
+          "perdón"
+        ],
+        "examples": [
+          "Lo siento por el retraso."
+        ]
+      }
+    },
+    "tags": [
+      "apology",
+      "politeness"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 39,
+    "translations": {
+      "en": {
+        "text": "goodbye",
+        "phonetic": "/ˌɡʊdˈbaɪ/",
+        "synonyms": [
+          "bye"
+        ],
+        "examples": [
+          "Goodbye! See you tomorrow."
+        ]
+      },
+      "de": {
+        "text": "Auf Wiedersehen",
+        "phonetic": "/aʊ̯f ˈviːdɐˌzeːən/",
+        "synonyms": [
+          "tschüss"
+        ],
+        "examples": [
+          "Auf Wiedersehen! Bis morgen."
+        ]
+      },
+      "es": {
+        "text": "adiós",
+        "phonetic": "/aˈðjos/",
+        "synonyms": [
+          "hasta luego"
+        ],
+        "examples": [
+          "¡Adiós! Hasta mañana."
+        ]
+      }
+    },
+    "tags": [
+      "farewell",
+      "expression"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 40,
+    "translations": {
+      "en": {
+        "text": "nice to meet you, so nice to meet you",
+        "phonetic": "/naɪs tə ˈmiːt juː/",
+        "synonyms": [
+          "pleased to meet you"
+        ],
+        "examples": [
+          "Nice to meet you, Maria."
+        ]
+      },
+      "de": {
+        "text": "Freut mich",
+        "phonetic": "/fʁɔʏ̯t mɪç/",
+        "synonyms": [
+          "angenehm"
+        ],
+        "examples": [
+          "Freut mich, Maria kennenzulernen."
+        ]
+      },
+      "es": {
+        "text": "mucho gusto",
+        "phonetic": "/ˈmutʃo ˈɣusto/",
+        "synonyms": [
+          "encantado"
+        ],
+        "examples": [
+          "Mucho gusto, María."
+        ]
+      }
+    },
+    "tags": [
+      "greeting",
+      "expression"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 41,
+    "translations": {
+      "en": {
+        "text": "good morning",
+        "phonetic": "/ɡʊd ˈmɔːrnɪŋ/",
+        "synonyms": [
+          "morning"
+        ],
+        "examples": [
+          "Good morning! How did you sleep?"
+        ]
+      },
+      "de": {
+        "text": "Guten Morgen",
+        "phonetic": "/ˈɡuːtn̩ ˈmɔʁɡn̩/",
+        "synonyms": [
+          "Morgen!"
+        ],
+        "examples": [
+          "Guten Morgen! Wie hast du geschlafen?"
+        ]
+      },
+      "es": {
+        "text": "buenos días",
+        "phonetic": "/ˈbwenos ˈdi.as/",
+        "synonyms": [
+          "¡Buen día!"
+        ],
+        "examples": [
+          "¡Buenos días! ¿Cómo dormiste?"
+        ]
+      }
+    },
+    "tags": [
+      "greeting",
+      "time"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 42,
+    "translations": {
+      "en": {
+        "text": "thanks, thank you, party piece",
+        "phonetic": "/θæŋks; θæŋk juː/",
+        "synonyms": [
+          "cheers",
+          "much appreciated"
+        ],
+        "examples": [
+          "Thanks for your help!"
+        ]
+      },
+      "de": {
+        "text": "danke",
+        "phonetic": "/ˈdaŋkə/",
+        "synonyms": [
+          "vielen Dank"
+        ],
+        "examples": [
+          "Danke für deine Hilfe!"
+        ]
+      },
+      "es": {
+        "text": "gracias",
+        "phonetic": "/ˈɡɾasjas/",
+        "synonyms": [
+          "muchas gracias"
+        ],
+        "examples": [
+          "¡Gracias por tu ayuda!"
+        ]
+      }
+    },
+    "tags": [
+      "thanks",
+      "politeness"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 43,
+    "translations": {
+      "en": {
+        "text": "hello, hi",
+        "phonetic": "/həˈloʊ; haɪ/",
+        "synonyms": [
           "hey"
         ],
         "examples": [
-          "Hello, how are you?"
+          "Hello! How are you?"
         ]
       },
       "de": {
         "text": "hallo",
-        "phonetic": "ˈhaloː",
+        "phonetic": "/haˈloː/",
         "synonyms": [
-          "hi",
-          "hey"
+          "hi"
         ],
         "examples": [
-          "Hallo, wie geht\u0027s?"
+          "Hallo! Wie geht’s?"
         ]
       },
       "es": {
         "text": "hola",
-        "phonetic": "ˈola",
+        "phonetic": "/ˈola/",
         "synonyms": [
-          "buenas",
-          "saludos"
+          "¡buenas!"
         ],
         "examples": [
-          "Hola, Â¿cÃ³mo estÃ¡s?"
+          "¡Hola! ¿Cómo estás?"
         ]
       }
     },
@@ -43,561 +1730,1048 @@
     "level": "A1"
   },
   {
-    "id": 2,
+    "id": 44,
     "translations": {
       "en": {
-        "text": "goodbye",
-        "phonetic": "ɡʊˈbaɪ",
+        "text": "good night, good evening",
+        "phonetic": "/ɡʊd naɪt; ɡʊd ˈiːvnɪŋ/",
         "synonyms": [
-          "bye",
-          "farewell"
+          "night-night",
+          "good evening"
         ],
         "examples": [
-          "Goodbye, see you tomorrow."
+          "Good night! See you tomorrow."
         ]
       },
       "de": {
-        "text": "auf Wiedersehen",
-        "phonetic": "aʊf ˈviːdəˌzeːən",
+        "text": "Gute Nacht",
+        "phonetic": "/ˈɡuːtə naxt/",
         "synonyms": [
-          "tschÃ¼ss",
-          "leb wohl"
+          "schlaf gut"
         ],
         "examples": [
-          "Auf Wiedersehen, bis morgen."
+          "Gute Nacht! Bis morgen."
         ]
       },
       "es": {
-        "text": "adiÃ³s",
-        "phonetic": "aˈðjos",
+        "text": "buenas noches",
+        "phonetic": "/ˈbwenas ˈnotʃes/",
         "synonyms": [
-          "chau",
-          "hasta luego"
+          "que descanses"
         ],
         "examples": [
-          "AdiÃ³s, nos vemos maÃ±ana."
+          "Buenas noches, hasta mañana."
         ]
       }
     },
     "tags": [
-      "farewell",
-      "basic"
+      "greeting",
+      "time"
     ],
     "level": "A1"
   },
   {
-    "id": 3,
+    "id": 45,
     "translations": {
       "en": {
-        "text": "please",
-        "phonetic": "pliːz",
+        "text": "(?) do you drink, (you) drink, drink",
+        "phonetic": "/duː juː drɪŋk/",
         "synonyms": [
-          "if you please",
-          "kindly"
+          "have (a drink)"
         ],
         "examples": [
-          "Please pass the salt."
+          "Do you drink coffee in the morning?"
         ]
       },
       "de": {
-        "text": "bitte",
-        "phonetic": "ˈbɪtə",
+        "text": "du trinkst",
+        "phonetic": "/duː tʁɪŋkst/",
         "synonyms": [
-          "freundlich",
-          "sei so gut"
+          "trinkst du"
         ],
         "examples": [
-          "Bitte reich mir das Salz."
+          "Trinkst du morgens Kaffee?"
         ]
       },
       "es": {
-        "text": "por favor",
-        "phonetic": "poɹ faˈβoɹ",
+        "text": "bebes",
+        "phonetic": "/ˈβeβes/",
         "synonyms": [
-          "si eres tan amable",
-          "amablemente"
+          "tomas"
         ],
         "examples": [
-          "Por favor, pÃ¡same la sal."
+          "¿Bebes café por la mañana?"
         ]
       }
     },
     "tags": [
-      "politeness",
-      "basic"
+      "verb",
+      "drink"
     ],
     "level": "A1"
   },
   {
-    "id": 4,
-    "translations": {
-      "en": {
-        "text": "thank you",
-        "phonetic": "ˈθæŋk juː",
-        "synonyms": [
-          "thanks",
-          "much obliged"
-        ],
-        "examples": [
-          "Thank you for your help."
-        ]
-      },
-      "de": {
-        "text": "danke",
-        "phonetic": "ˈdæŋkə",
-        "synonyms": [
-          "vielen Dank",
-          "dankeschÃ¶n"
-        ],
-        "examples": [
-          "Danke fÃ¼r deine Hilfe."
-        ]
-      },
-      "es": {
-        "text": "gracias",
-        "phonetic": "ˈɡɾasjas",
-        "synonyms": [
-          "muchas gracias",
-          "te lo agradezco"
-        ],
-        "examples": [
-          "Gracias por tu ayuda."
-        ]
-      }
-    },
-    "tags": [
-      "politeness",
-      "basic"
-    ],
-    "level": "A1"
-  },
-  {
-    "id": 5,
-    "translations": {
-      "en": {
-        "text": "yes",
-        "phonetic": "jɛs",
-        "synonyms": [
-          "yep",
-          "sure"
-        ],
-        "examples": [
-          "Yes, I understand."
-        ]
-      },
-      "de": {
-        "text": "ja",
-        "phonetic": "ja",
-        "synonyms": [
-          "jawohl",
-          "genau"
-        ],
-        "examples": [
-          "Ja, ich verstehe."
-        ]
-      },
-      "es": {
-        "text": "sÃ­",
-        "phonetic": "si",
-        "synonyms": [
-          "claro",
-          "vale"
-        ],
-        "examples": [
-          "SÃ­, entiendo."
-        ]
-      }
-    },
-    "tags": [
-      "confirmation",
-      "basic"
-    ],
-    "level": "A1"
-  },
-  {
-    "id": 6,
-    "translations": {
-      "en": {
-        "text": "no",
-        "phonetic": "noʊ",
-        "synonyms": [
-          "nope",
-          "nah"
-        ],
-        "examples": [
-          "No, I don\u0027t want that."
-        ]
-      },
-      "de": {
-        "text": "nein",
-        "phonetic": "naɪ̯n",
-        "synonyms": [
-          "nÃ¶",
-          "keineswegs"
-        ],
-        "examples": [
-          "Nein, das mÃ¶chte ich nicht."
-        ]
-      },
-      "es": {
-        "text": "no",
-        "phonetic": "no",
-        "synonyms": [
-          "para nada",
-          "de ninguna manera"
-        ],
-        "examples": [
-          "No, no quiero eso."
-        ]
-      }
-    },
-    "tags": [
-      "negation",
-      "basic"
-    ],
-    "level": "A1"
-  },
-  {
-    "id": 7,
-    "translations": {
-      "en": {
-        "text": "sorry",
-        "phonetic": "ˈɓri",
-        "synonyms": [
-          "apologies",
-          "pardon"
-        ],
-        "examples": [
-          "Sorry, I\u0027m late."
-        ]
-      },
-      "de": {
-        "text": "entschuldigung",
-        "phonetic": "ɛntˈʃʊldɪɡʊŋ",
-        "synonyms": [
-          "verzeihung",
-          "sorry"
-        ],
-        "examples": [
-          "Entschuldigung, ich bin zu spÃ¤t."
-        ]
-      },
-      "es": {
-        "text": "lo siento",
-        "phonetic": "lo ˈsjento",
-        "synonyms": [
-          "perdÃ³n",
-          "disculpa"
-        ],
-        "examples": [
-          "Lo siento, llego tarde."
-        ]
-      }
-    },
-    "tags": [
-      "apology",
-      "basic"
-    ],
-    "level": "A1"
-  },
-  {
-    "id": 8,
+    "id": 46,
     "translations": {
       "en": {
         "text": "water",
-        "phonetic": "ˈwɔːtər",
+        "phonetic": "/ˈwɔːtər/",
         "synonyms": [
-          "H2O",
-          "drinking water"
+          "H2O"
         ],
         "examples": [
-          "Can I have some water?"
+          "I drink a lot of water."
         ]
       },
       "de": {
         "text": "Wasser",
-        "phonetic": "ˈvasə",
+        "phonetic": "/ˈvasɐ/",
         "synonyms": [
-          "Trinkwasser",
-          "H2O"
+          "Trinkwasser"
         ],
         "examples": [
-          "Kann ich etwas Wasser haben?"
+          "Ich trinke viel Wasser."
         ]
       },
       "es": {
         "text": "agua",
-        "phonetic": "ˈaɣwa",
+        "phonetic": "/ˈaɣwa/",
         "synonyms": [
-          "agua potable",
-          "H2O"
+          "agua potable"
         ],
         "examples": [
-          "Â¿Puedo tener un poco de agua?"
-        ]
-      }
-    },
-    "tags": [
-      "food",
-      "basic"
-    ],
-    "level": "A1"
-  },
-  {
-    "id": 9,
-    "translations": {
-      "en": {
-        "text": "bread",
-        "phonetic": "brɛd",
-        "synonyms": [
-          "loaf",
-          "bun"
-        ],
-        "examples": [
-          "I would like some bread."
-        ]
-      },
-      "de": {
-        "text": "Brot",
-        "phonetic": "broːt",
-        "synonyms": [
-          "Laib",
-          "Semmel"
-        ],
-        "examples": [
-          "Ich hÃ¤tte gern etwas Brot."
-        ]
-      },
-      "es": {
-        "text": "pan",
-        "phonetic": "pan",
-        "synonyms": [
-          "barra",
-          "bollo"
-        ],
-        "examples": [
-          "Quisiera un poco de pan."
-        ]
-      }
-    },
-    "tags": [
-      "food",
-      "basic"
-    ],
-    "level": "A1"
-  },
-  {
-    "id": 10,
-    "translations": {
-      "en": {
-        "text": "coffee",
-        "phonetic": "ˈkɔːfi",
-        "synonyms": [
-          "espresso",
-          "brew"
-        ],
-        "examples": [
-          "I drink coffee every morning."
-        ]
-      },
-      "de": {
-        "text": "Kaffee",
-        "phonetic": "ˈkafeː",
-        "synonyms": [
-          "Espresso",
-          "Filterkaffee"
-        ],
-        "examples": [
-          "Ich trinke jeden Morgen Kaffee."
-        ]
-      },
-      "es": {
-        "text": "cafÃ©",
-        "phonetic": "kaˈfe",
-        "synonyms": [
-          "espresso",
-          "tinto"
-        ],
-        "examples": [
-          "Tomo cafÃ© cada maÃ±ana."
+          "Bebo mucha agua."
         ]
       }
     },
     "tags": [
       "drink",
-      "basic"
+      "food"
     ],
     "level": "A1"
   },
   {
-    "id": 11,
+    "id": 47,
     "translations": {
       "en": {
-        "text": "friend",
-        "phonetic": "frɛnd",
+        "text": "(I) eat, (I) am eating, like",
+        "phonetic": "/aɪ iːt; aɪ æm ˈiːtɪŋ/",
         "synonyms": [
-          "buddy",
-          "pal"
+          "have (food)"
         ],
         "examples": [
-          "She is my friend."
+          "I eat breakfast at seven."
         ]
       },
       "de": {
-        "text": "Freund",
-        "phonetic": "fʁɔʏ̯nt",
+        "text": "ich esse",
+        "phonetic": "/ɪç ˈʔɛsə/",
         "synonyms": [
-          "Kumpel",
-          "Bekannter"
+          "esse"
         ],
         "examples": [
-          "Sie ist meine Freundin."
+          "Ich esse um sieben Uhr Frühstück."
         ]
       },
       "es": {
-        "text": "amigo",
-        "phonetic": "aˈmiɣo",
+        "text": "como",
+        "phonetic": "/ˈkomo/",
         "synonyms": [
-          "compaÃ±ero",
-          "colega"
+          "ingiero"
         ],
         "examples": [
-          "Ella es mi amiga."
+          "Como el desayuno a las siete."
         ]
       }
     },
     "tags": [
-      "people",
-      "basic"
+      "verb",
+      "eat"
     ],
     "level": "A1"
   },
   {
-    "id": 12,
+    "id": 48,
     "translations": {
       "en": {
-        "text": "family",
-        "phonetic": "ˈfæməli",
+        "text": "(I) drink, (I) am drinking, drink",
+        "phonetic": "/aɪ drɪŋk; aɪ æm ˈdrɪŋkɪŋ/",
         "synonyms": [
-          "relatives",
-          "kin"
+          "have (a beverage)"
         ],
         "examples": [
-          "My family is large."
+          "I drink tea in the afternoon."
         ]
       },
       "de": {
-        "text": "Familie",
-        "phonetic": "faˈmiːli̯ə",
+        "text": "ich trinke",
+        "phonetic": "/ɪç ˈtʁɪŋkə/",
         "synonyms": [
-          "Verwandtschaft",
-          "AngehÃ¶rige"
+          "trinke"
         ],
         "examples": [
-          "Meine Familie ist groÃŸ."
+          "Ich trinke nachmittags Tee."
         ]
       },
       "es": {
-        "text": "familia",
-        "phonetic": "faˈmilja",
+        "text": "bebo",
+        "phonetic": "/ˈβeβo/",
         "synonyms": [
-          "parientes",
-          "seres queridos"
+          "tomo"
         ],
         "examples": [
-          "Mi familia es grande."
+          "Bebo té por la tarde."
         ]
       }
     },
     "tags": [
-      "people",
-      "basic"
+      "verb",
+      "drink"
     ],
     "level": "A1"
   },
   {
-    "id": 13,
+    "id": 49,
     "translations": {
       "en": {
-        "text": "school",
-        "phonetic": "skuːl",
+        "text": "milk",
+        "phonetic": "/mɪlk/",
         "synonyms": [
-          "academy",
-          "education"
+          "dairy milk"
         ],
         "examples": [
-          "The school is nearby."
+          "She drinks milk with cereal."
         ]
       },
       "de": {
-        "text": "Schule",
-        "phonetic": "ˈʃuːlə",
+        "text": "Milch",
+        "phonetic": "/mɪlç/",
         "synonyms": [
-          "Bildungseinrichtung",
-          "Lehranstalt"
+          "Kuhmilch"
         ],
         "examples": [
-          "Die Schule ist in der NÃ¤he."
+          "Sie trinkt Milch zum Müsli."
         ]
       },
       "es": {
-        "text": "escuela",
-        "phonetic": "esˈkwela",
+        "text": "leche",
+        "phonetic": "/ˈletʃe/",
         "synonyms": [
-          "colegio",
-          "instituto"
+          "leche de vaca"
         ],
         "examples": [
-          "La escuela estÃ¡ cerca."
+          "Ella bebe leche con cereales."
         ]
       }
     },
     "tags": [
-      "education",
-      "basic"
+      "drink",
+      "food"
     ],
     "level": "A1"
   },
   {
-    "id": 14,
+    "id": 50,
     "translations": {
       "en": {
-        "text": "book",
-        "phonetic": "bʊk",
+        "text": "bread, bar, cake",
+        "phonetic": "/brɛd/",
         "synonyms": [
-          "volume",
-          "novel"
+          "loaf"
         ],
         "examples": [
-          "I am reading a book."
+          "We bought fresh bread this morning."
         ]
       },
       "de": {
-        "text": "Buch",
-        "phonetic": "buːx",
+        "text": "Brot",
+        "phonetic": "/bʁoːt/",
         "synonyms": [
-          "SchmÃ¶ker",
-          "Werk"
+          "Laib"
         ],
         "examples": [
-          "Ich lese ein Buch."
+          "Wir haben heute Morgen frisches Brot gekauft."
         ]
       },
       "es": {
-        "text": "libro",
-        "phonetic": "ˈliβɾo",
+        "text": "pan",
+        "phonetic": "/pan/",
         "synonyms": [
-          "tomo",
-          "novela"
+          "hogaza"
         ],
         "examples": [
-          "Estoy leyendo un libro."
+          "Compramos pan fresco esta mañana."
         ]
       }
     },
     "tags": [
-      "education",
-      "basic"
+      "food"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 51,
+    "translations": {
+      "en": {
+        "text": "(he) is drinking, (you) are drinking, (he) drinks",
+        "phonetic": "/hiː ɪz ˈdrɪŋkɪŋ; hiː drɪŋks/",
+        "synonyms": [
+          "is having a drink"
+        ],
+        "examples": [
+          "He is drinking water now."
+        ]
+      },
+      "de": {
+        "text": "er trinkt",
+        "phonetic": "/eːɐ̯ tʁɪŋkt/",
+        "synonyms": [
+          "trinkt"
+        ],
+        "examples": [
+          "Er trinkt gerade Wasser."
+        ]
+      },
+      "es": {
+        "text": "bebe",
+        "phonetic": "/ˈβeβe/",
+        "synonyms": [
+          "toma"
+        ],
+        "examples": [
+          "Él bebe agua ahora."
+        ]
+      }
+    },
+    "tags": [
+      "verb",
+      "drink"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 52,
+    "translations": {
+      "en": {
+        "text": "ate, (you) are eating, (?) do you eat",
+        "phonetic": "/eɪt; juː ɑːr ˈiːtɪŋ; duː juː iːt/",
+        "synonyms": [
+          "consume"
+        ],
+        "examples": [
+          "Do you eat meat?"
+        ]
+      },
+      "de": {
+        "text": "du isst",
+        "phonetic": "/duː ɪst/",
+        "synonyms": [
+          "isst du"
+        ],
+        "examples": [
+          "Isst du Fleisch?"
+        ]
+      },
+      "es": {
+        "text": "comes",
+        "phonetic": "/ˈkomes/",
+        "synonyms": [
+          "ingieres"
+        ],
+        "examples": [
+          "¿Comes carne?"
+        ]
+      }
+    },
+    "tags": [
+      "verb",
+      "eat"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 53,
+    "translations": {
+      "en": {
+        "text": "is, are you, it's",
+        "phonetic": "/ɪz; ɑːr juː; ɪts/",
+        "synonyms": [
+          "be"
+        ],
+        "examples": [
+          "Is it far from here?"
+        ]
+      },
+      "de": {
+        "text": "ist",
+        "phonetic": "/ɪst/",
+        "synonyms": [
+          "sein (3. Sg.)"
+        ],
+        "examples": [
+          "Ist es weit von hier?"
+        ]
+      },
+      "es": {
+        "text": "es",
+        "phonetic": "/es/",
+        "synonyms": [
+          "ser (3. Sg.)"
+        ],
+        "examples": [
+          "¿Es lejos de aquí?"
+        ]
+      }
+    },
+    "tags": [
+      "verb",
+      "be"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 54,
+    "translations": {
+      "en": {
+        "text": "she, her, she'll",
+        "phonetic": "/ʃiː; hɜːr/",
+        "synonyms": [
+          "female pronoun"
+        ],
+        "examples": [
+          "She is my sister."
+        ]
+      },
+      "de": {
+        "text": "sie",
+        "phonetic": "/ziː/",
+        "synonyms": [
+          "weibliches Pronomen"
+        ],
+        "examples": [
+          "Sie ist meine Schwester."
+        ]
+      },
+      "es": {
+        "text": "ella",
+        "phonetic": "/ˈeʝa/",
+        "synonyms": [
+          "pronombre femenino"
+        ],
+        "examples": [
+          "Ella es mi hermana."
+        ]
+      }
+    },
+    "tags": [
+      "pronoun",
+      "person"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 55,
+    "translations": {
+      "en": {
+        "text": "you're, aren't being, are",
+        "phonetic": "/jʊr; ɑːr/",
+        "synonyms": [
+          "you are"
+        ],
+        "examples": [
+          "You’re very kind."
+        ]
+      },
+      "de": {
+        "text": "du bist",
+        "phonetic": "/duː bɪst/",
+        "synonyms": [
+          "bist du"
+        ],
+        "examples": [
+          "Du bist sehr nett."
+        ]
+      },
+      "es": {
+        "text": "eres",
+        "phonetic": "/ˈeɾes/",
+        "synonyms": [
+          "tú eres"
+        ],
+        "examples": [
+          "Eres muy amable."
+        ]
+      }
+    },
+    "tags": [
+      "verb",
+      "be"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 56,
+    "translations": {
+      "en": {
+        "text": "he, him, it",
+        "phonetic": "/hiː; hɪm; ɪt/",
+        "synonyms": [
+          "male pronoun"
+        ],
+        "examples": [
+          "He is my friend."
+        ]
+      },
+      "de": {
+        "text": "er",
+        "phonetic": "/eːɐ̯/",
+        "synonyms": [
+          "männliches Pronomen"
+        ],
+        "examples": [
+          "Er ist mein Freund."
+        ]
+      },
+      "es": {
+        "text": "él",
+        "phonetic": "/el/",
+        "synonyms": [
+          "él (pronombre)"
+        ],
+        "examples": [
+          "Él es mi amigo."
+        ]
+      }
+    },
+    "tags": [
+      "pronoun",
+      "article",
+      "grammar"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 57,
+    "translations": {
+      "en": {
+        "text": "you, you'll",
+        "phonetic": "/juː/",
+        "synonyms": [
+          "second-person pronoun"
+        ],
+        "examples": [
+          "You are welcome to join us."
+        ]
+      },
+      "de": {
+        "text": "du",
+        "phonetic": "/duː/",
+        "synonyms": [
+          "zweite Person Singular"
+        ],
+        "examples": [
+          "Du kannst gern mitkommen."
+        ]
+      },
+      "es": {
+        "text": "tú",
+        "phonetic": "/tu/",
+        "synonyms": [
+          "tú (pronombre)"
+        ],
+        "examples": [
+          "Tú puedes venir con nosotros."
+        ]
+      }
+    },
+    "tags": [
+      "pronoun",
+      "person"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 58,
+    "translations": {
+      "en": {
+        "text": "(it) eats, (?) do you eat, (she) eats",
+        "phonetic": "/iːts; duː juː iːt; ʃiː iːts/",
+        "synonyms": [
+          "has (food)"
+        ],
+        "examples": [
+          "She eats fruit every day."
+        ]
+      },
+      "de": {
+        "text": "sie isst",
+        "phonetic": "/ziː ɪst/",
+        "synonyms": [
+          "isst"
+        ],
+        "examples": [
+          "Sie isst jeden Tag Obst."
+        ]
+      },
+      "es": {
+        "text": "come",
+        "phonetic": "/ˈkome/",
+        "synonyms": [
+          "ingiere"
+        ],
+        "examples": [
+          "Ella come fruta todos los días."
+        ]
+      }
+    },
+    "tags": [
+      "verb",
+      "eat"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 59,
+    "translations": {
+      "en": {
+        "text": "apple, block",
+        "phonetic": "/ˈæpəl/",
+        "synonyms": [
+          "fruit"
+        ],
+        "examples": [
+          "I eat an apple every afternoon."
+        ]
+      },
+      "de": {
+        "text": "Apfel",
+        "phonetic": "/ˈapfəl/",
+        "synonyms": [
+          "Obst"
+        ],
+        "examples": [
+          "Ich esse jeden Nachmittag einen Apfel."
+        ]
+      },
+      "es": {
+        "text": "manzana",
+        "phonetic": "/manˈsana/",
+        "synonyms": [
+          "fruta"
+        ],
+        "examples": [
+          "Como una manzana cada tarde."
+        ]
+      }
+    },
+    "tags": [
+      "food",
+      "fruit"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 60,
+    "translations": {
+      "en": {
+        "text": "I am, am",
+        "phonetic": "/aɪ æm/",
+        "synonyms": [
+          "I’m"
+        ],
+        "examples": [
+          "I am from Germany."
+        ]
+      },
+      "de": {
+        "text": "ich bin",
+        "phonetic": "/ɪç bɪn/",
+        "synonyms": [
+          "bin"
+        ],
+        "examples": [
+          "Ich bin aus Deutschland."
+        ]
+      },
+      "es": {
+        "text": "soy",
+        "phonetic": "/soj/",
+        "synonyms": [
+          "yo soy"
+        ],
+        "examples": [
+          "Soy de Alemania."
+        ]
+      }
+    },
+    "tags": [
+      "verb",
+      "be"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 61,
+    "translations": {
+      "en": {
+        "text": "boy, child, kid",
+        "phonetic": "/bɔɪ/",
+        "synonyms": [
+          "lad"
+        ],
+        "examples": [
+          "The boy is playing in the park."
+        ]
+      },
+      "de": {
+        "text": "Junge",
+        "phonetic": "/ˈjʊŋə/",
+        "synonyms": [
+          "Bub"
+        ],
+        "examples": [
+          "Der Junge spielt im Park."
+        ]
+      },
+      "es": {
+        "text": "niño",
+        "phonetic": "/ˈniɲo/",
+        "synonyms": [
+          "chico"
+        ],
+        "examples": [
+          "El niño juega en el parque."
+        ]
+      }
+    },
+    "tags": [
+      "person",
+      "child"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 62,
+    "translations": {
+      "en": {
+        "text": "man, bloke, guy",
+        "phonetic": "/mæn/",
+        "synonyms": [
+          "male",
+          "gentleman"
+        ],
+        "examples": [
+          "The man is waiting at the door."
+        ]
+      },
+      "de": {
+        "text": "Mann",
+        "phonetic": "/man/",
+        "synonyms": [
+          "Herr"
+        ],
+        "examples": [
+          "Der Mann wartet an der Tür."
+        ]
+      },
+      "es": {
+        "text": "hombre",
+        "phonetic": "/ˈombɾe/",
+        "synonyms": [
+          "señor"
+        ],
+        "examples": [
+          "El hombre espera en la puerta."
+        ]
+      }
+    },
+    "tags": [
+      "person",
+      "adult"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 63,
+    "translations": {
+      "en": {
+        "text": "a, an, one",
+        "phonetic": "/ə; æn; wʌn/",
+        "synonyms": [
+          "single"
+        ],
+        "examples": [
+          "I’d like a coffee, please."
+        ]
+      },
+      "de": {
+        "text": "eine",
+        "phonetic": "/ˈaɪ̯nə/",
+        "synonyms": [
+          "eine (Artikel)"
+        ],
+        "examples": [
+          "Ich hätte gerne eine Tasse Kaffee."
+        ]
+      },
+      "es": {
+        "text": "una",
+        "phonetic": "/ˈuna/",
+        "synonyms": [
+          "un (fem.)"
+        ],
+        "examples": [
+          "Quiero una taza de café."
+        ]
+      }
+    },
+    "tags": [
+      "article",
+      "grammar"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 64,
+    "translations": {
+      "en": {
+        "text": "I, me",
+        "phonetic": "/aɪ; miː/",
+        "synonyms": [
+          "first-person pronoun"
+        ],
+        "examples": [
+          "I am learning German."
+        ]
+      },
+      "de": {
+        "text": "ich",
+        "phonetic": "/ɪç/",
+        "synonyms": [
+          "1. Person Singular"
+        ],
+        "examples": [
+          "Ich lerne Deutsch."
+        ]
+      },
+      "es": {
+        "text": "yo",
+        "phonetic": "/jo/",
+        "synonyms": [
+          "pronombre de primera persona"
+        ],
+        "examples": [
+          "Yo estudio alemán."
+        ]
+      }
+    },
+    "tags": [
+      "pronoun",
+      "person"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 65,
+    "translations": {
+      "en": {
+        "text": "the, your, her",
+        "phonetic": "/ðə; ðiː/",
+        "synonyms": [
+          "definite article"
+        ],
+        "examples": [
+          "The museum opens at ten."
+        ]
+      },
+      "de": {
+        "text": "die",
+        "phonetic": "/diː/",
+        "synonyms": [
+          "bestimmter Artikel (Fem./Pl.)"
+        ],
+        "examples": [
+          "Die Bibliothek öffnet um zehn."
+        ]
+      },
+      "es": {
+        "text": "la",
+        "phonetic": "/la/",
+        "synonyms": [
+          "artículo definido (fem.)"
+        ],
+        "examples": [
+          "La biblioteca abre a las diez."
+        ]
+      }
+    },
+    "tags": [
+      "article",
+      "grammar"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 66,
+    "translations": {
+      "en": {
+        "text": "girl, child, daughter",
+        "phonetic": "/ɡɜːrl/",
+        "synonyms": [
+          "young girl",
+          "daughter"
+        ],
+        "examples": [
+          "The girl is reading a book."
+        ]
+      },
+      "de": {
+        "text": "Mädchen",
+        "phonetic": "/ˈmɛːtçən/",
+        "synonyms": [
+          "Mädchen",
+          "Tochter"
+        ],
+        "examples": [
+          "Das Mädchen liest ein Buch."
+        ]
+      },
+      "es": {
+        "text": "niña",
+        "phonetic": "/ˈniɲa/",
+        "synonyms": [
+          "chica",
+          "hija"
+        ],
+        "examples": [
+          "La niña lee un libro."
+        ]
+      }
+    },
+    "tags": [
+      "person",
+      "child"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 67,
+    "translations": {
+      "en": {
+        "text": "a, an, one",
+        "phonetic": "/ə; æn; wʌn/",
+        "synonyms": [
+          "single"
+        ],
+        "examples": [
+          "I saw a cat in the garden."
+        ]
+      },
+      "de": {
+        "text": "ein",
+        "phonetic": "/aɪ̯n/",
+        "synonyms": [
+          "Artikel (mask./neut.)"
+        ],
+        "examples": [
+          "Ich habe einen Hund gesehen."
+        ]
+      },
+      "es": {
+        "text": "un",
+        "phonetic": "/un/",
+        "synonyms": [
+          "artículo indefinido (masc.)"
+        ],
+        "examples": [
+          "Vi un gato en el jardín."
+        ]
+      }
+    },
+    "tags": [
+      "article",
+      "grammar"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 68,
+    "translations": {
+      "en": {
+        "text": "the, your, her",
+        "phonetic": "/ðə; ðiː/",
+        "synonyms": [
+          "definite article"
+        ],
+        "examples": [
+          "The train leaves at nine."
+        ]
+      },
+      "de": {
+        "text": "der",
+        "phonetic": "/deːɐ̯/",
+        "synonyms": [
+          "bestimmter Artikel (Mask.)"
+        ],
+        "examples": [
+          "Der Zug fährt um neun Uhr ab."
+        ]
+      },
+      "es": {
+        "text": "el",
+        "phonetic": "/el/",
+        "synonyms": [
+          "artículo definido (masc.)"
+        ],
+        "examples": [
+          "El tren sale a las nueve."
+        ]
+      }
+    },
+    "tags": [
+      "article",
+      "grammar"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": 69,
+    "translations": {
+      "en": {
+        "text": "woman, wife, lady",
+        "phonetic": "/ˈwʊmən/",
+        "synonyms": [
+          "female",
+          "lady"
+        ],
+        "examples": [
+          "The woman is talking on the phone."
+        ]
+      },
+      "de": {
+        "text": "Frau",
+        "phonetic": "/fʁaʊ̯/",
+        "synonyms": [
+          "Dame"
+        ],
+        "examples": [
+          "Die Frau telefoniert."
+        ]
+      },
+      "es": {
+        "text": "mujer",
+        "phonetic": "/muˈxeɾ/",
+        "synonyms": [
+          "señora"
+        ],
+        "examples": [
+          "La mujer está hablando por teléfono."
+        ]
+      }
+    },
+    "tags": [
+      "person",
+      "adult"
     ],
     "level": "A1"
   }

@@ -83,8 +83,8 @@
     "id": 3,
     "translations": {
       "en": {
-        "text": "bank, banks",
-        "phonetic": "/bæŋk, bæŋks/",
+        "text": "bank",
+        "phonetic": "/bæŋk/",
         "synonyms": [
           "financial institution"
         ],
@@ -205,8 +205,8 @@
     "id": 6,
     "translations": {
       "en": {
-        "text": "hospital, hospitals",
-        "phonetic": "/ˈhɑːspɪtəl, ˈhɑːspɪtəlz/",
+        "text": "hospital",
+        "phonetic": "/ˈhɑːspɪtəl/",
         "synonyms": [
           "medical center"
         ],
@@ -245,8 +245,8 @@
     "id": 7,
     "translations": {
       "en": {
-        "text": "museum, museums",
-        "phonetic": "/mjuˈziːəm, mjuˈziːəmz/",
+        "text": "museum",
+        "phonetic": "/mjuˈziːəm/",
         "synonyms": [
           "gallery"
         ],
@@ -288,7 +288,7 @@
         "text": "your",
         "phonetic": "/jʊr/",
         "synonyms": [
-          "your (possessive determiner)"
+          ""
         ],
         "examples": [
           "Is this your jacket?"
@@ -486,11 +486,11 @@
     "id": 13,
     "translations": {
       "en": {
-        "text": "to, with, away",
+        "text": "to",
         "phonetic": "/tuː; wɪð; əˈweɪ/",
         "synonyms": [
           "toward",
-          "along with"
+          "with"
         ],
         "examples": [
           "We’re going to the park with friends."
@@ -647,8 +647,8 @@
     "id": 17,
     "translations": {
       "en": {
-        "text": "I've got, is there, I'm having",
-        "phonetic": "/aɪv ɡɑːt; ɪz ðɛr; aɪm ˈhævɪŋ/",
+        "text": "I've got",
+        "phonetic": "/aɪv ɡɑːt/",
         "synonyms": [
           "I have",
           "do we have"
@@ -768,8 +768,8 @@
     "id": 20,
     "translations": {
       "en": {
-        "text": "hotel, hotels",
-        "phonetic": "/hoʊˈtɛl, hoʊˈtɛlz/",
+        "text": "hotel",
+        "phonetic": "/hoʊˈtɛl/",
         "synonyms": [
           "inn"
         ],
@@ -1011,8 +1011,8 @@
     "id": 26,
     "translations": {
       "en": {
-        "text": "need, (I) need, (?) do I need",
-        "phonetic": "/niːd; aɪ niːd; duː aɪ niːd/",
+        "text": "(I) need",
+        "phonetic": "/aɪ niːd/",
         "synonyms": [
           "require"
         ],
@@ -1051,7 +1051,7 @@
     "id": 27,
     "translations": {
       "en": {
-        "text": "taxi, cab",
+        "text": "taxi",
         "phonetic": "/ˈtæksi/",
         "synonyms": [
           "cab"
@@ -1091,10 +1091,10 @@
     "id": 28,
     "translations": {
       "en": {
-        "text": "Spanish, Spaniard, Spanish man",
+        "text": "Spanish",
         "phonetic": "/ˈspænɪʃ/",
         "synonyms": [
-          "Castilian (language)"
+          ""
         ],
         "examples": [
           "I speak a little Spanish."
@@ -1104,7 +1104,7 @@
         "text": "Spanisch",
         "phonetic": "/ˈʃpaːnɪʃ/",
         "synonyms": [
-          "Kastilisch"
+          ""
         ],
         "examples": [
           "Ich spreche ein bisschen Spanisch."
@@ -1114,7 +1114,7 @@
         "text": "español",
         "phonetic": "/espaˈɲol/",
         "synonyms": [
-          "castellano"
+          ""
         ],
         "examples": [
           "Hablo un poco de español."
@@ -1131,11 +1131,11 @@
     "id": 29,
     "translations": {
       "en": {
-        "text": "(I) am talking, speak, talking",
-        "phonetic": "/aɪ æm ˈtɔːkɪŋ; spiːk/",
+        "text": "(I) am talking",
+        "phonetic": "/aɪ æm ˈtɔːkɪŋ/",
         "synonyms": [
           "say",
-          "converse"
+          "speak"
         ],
         "examples": [
           "I speak English at work."
@@ -1172,7 +1172,7 @@
     "id": 30,
     "translations": {
       "en": {
-        "text": "(?) do you speak, speak, talking",
+        "text": "(you) speak",
         "phonetic": "/duː juː spiːk/",
         "synonyms": [
           "can you speak"
@@ -1212,7 +1212,7 @@
     "id": 31,
     "translations": {
       "en": {
-        "text": "excuse me, excuse!, (I/he/she/it/you) excuse",
+        "text": "excuse me",
         "phonetic": "/ɪkˈskjuːz miː/",
         "synonyms": [
           "pardon me"
@@ -1252,10 +1252,10 @@
     "id": 32,
     "translations": {
       "en": {
-        "text": "English, British, Englishman",
+        "text": "English",
         "phonetic": "/ˈɪŋɡlɪʃ/",
         "synonyms": [
-          "the English language"
+          "en"
         ],
         "examples": [
           "Do you speak English?"
@@ -1292,7 +1292,7 @@
     "id": 33,
     "translations": {
       "en": {
-        "text": "do not, wasn't, n't",
+        "text": "do not",
         "phonetic": "/duː nɑːt/",
         "synonyms": [
           "don’t"
@@ -1332,7 +1332,7 @@
     "id": 34,
     "translations": {
       "en": {
-        "text": "yes, yourself",
+        "text": "yes",
         "phonetic": "/jɛs/",
         "synonyms": [
           "yeah"
@@ -1395,7 +1395,7 @@
         "text": "por favor",
         "phonetic": "/poɾ faˈβoɾ/",
         "synonyms": [
-          "por gentileza"
+          "desculpe"
         ],
         "examples": [
           "Una mesa para dos, por favor."
@@ -1412,7 +1412,7 @@
     "id": 36,
     "translations": {
       "en": {
-        "text": "you're welcome, you are welcome",
+        "text": "you're welcome",
         "phonetic": "/jʊr ˈwɛlkəm/",
         "synonyms": [
           "no problem"
@@ -1452,10 +1452,11 @@
     "id": 37,
     "translations": {
       "en": {
-        "text": "sorry, excuse me, pardon",
+        "text": "sorry",
         "phonetic": "/ˈsɔːri/",
         "synonyms": [
-          "pardon"
+          "pardon",
+          "excuse me"
         ],
         "examples": [
           "Sorry, I didn’t see you."
@@ -1572,7 +1573,7 @@
     "id": 40,
     "translations": {
       "en": {
-        "text": "nice to meet you, so nice to meet you",
+        "text": "nice to meet you",
         "phonetic": "/naɪs tə ˈmiːt juː/",
         "synonyms": [
           "pleased to meet you"
@@ -1582,7 +1583,7 @@
         ]
       },
       "de": {
-        "text": "Freut mich",
+        "text": "Freut mich dich kennenzulernen",
         "phonetic": "/fʁɔʏ̯t mɪç/",
         "synonyms": [
           "angenehm"
@@ -1652,11 +1653,10 @@
     "id": 42,
     "translations": {
       "en": {
-        "text": "thanks, thank you, party piece",
-        "phonetic": "/θæŋks; θæŋk juː/",
+        "text": "thanks",
+        "phonetic": "/θæŋks/",
         "synonyms": [
-          "cheers",
-          "much appreciated"
+          "cheers"
         ],
         "examples": [
           "Thanks for your help!"
@@ -1693,10 +1693,11 @@
     "id": 43,
     "translations": {
       "en": {
-        "text": "hello, hi",
+        "text": "hello",
         "phonetic": "/həˈloʊ; haɪ/",
         "synonyms": [
-          "hey"
+          "hey",
+          "hi"
         ],
         "examples": [
           "Hello! How are you?"
@@ -1733,8 +1734,8 @@
     "id": 44,
     "translations": {
       "en": {
-        "text": "good night, good evening",
-        "phonetic": "/ɡʊd naɪt; ɡʊd ˈiːvnɪŋ/",
+        "text": "good night",
+        "phonetic": "/ɡʊd naɪt/",
         "synonyms": [
           "night-night",
           "good evening"
@@ -1774,8 +1775,8 @@
     "id": 45,
     "translations": {
       "en": {
-        "text": "(?) do you drink, (you) drink, drink",
-        "phonetic": "/duː juː drɪŋk/",
+        "text": "(you) drink",
+        "phonetic": "/juː drɪŋk/",
         "synonyms": [
           "have (a drink)"
         ],
@@ -1854,8 +1855,8 @@
     "id": 47,
     "translations": {
       "en": {
-        "text": "(I) eat, (I) am eating, like",
-        "phonetic": "/aɪ iːt; aɪ æm ˈiːtɪŋ/",
+        "text": "(I) eat",
+        "phonetic": "/aɪ iːt/",
         "synonyms": [
           "have (food)"
         ],
@@ -1894,8 +1895,8 @@
     "id": 48,
     "translations": {
       "en": {
-        "text": "(I) drink, (I) am drinking, drink",
-        "phonetic": "/aɪ drɪŋk; aɪ æm ˈdrɪŋkɪŋ/",
+        "text": "(I) drink",
+        "phonetic": "/aɪ drɪŋk/",
         "synonyms": [
           "have (a beverage)"
         ],
@@ -1974,7 +1975,7 @@
     "id": 50,
     "translations": {
       "en": {
-        "text": "bread, bar, cake",
+        "text": "bread",
         "phonetic": "/brɛd/",
         "synonyms": [
           "loaf"
@@ -2013,13 +2014,13 @@
     "id": 51,
     "translations": {
       "en": {
-        "text": "(he) is drinking, (you) are drinking, (he) drinks",
-        "phonetic": "/hiː ɪz ˈdrɪŋkɪŋ; hiː drɪŋks/",
+        "text": "(he) drinks",
+        "phonetic": "/hiː drɪŋks/",
         "synonyms": [
           "is having a drink"
         ],
         "examples": [
-          "He is drinking water now."
+          "He drinks water."
         ]
       },
       "de": {
@@ -2053,8 +2054,8 @@
     "id": 52,
     "translations": {
       "en": {
-        "text": "ate, (you) are eating, (?) do you eat",
-        "phonetic": "/eɪt; juː ɑːr ˈiːtɪŋ; duː juː iːt/",
+        "text": "you eat",
+        "phonetic": "/eɪt/",
         "synonyms": [
           "consume"
         ],
@@ -2093,8 +2094,8 @@
     "id": 53,
     "translations": {
       "en": {
-        "text": "is, are you, it's",
-        "phonetic": "/ɪz; ɑːr juː; ɪts/",
+        "text": "(it) is",
+        "phonetic": "/ɪz/",
         "synonyms": [
           "be"
         ],
@@ -2103,10 +2104,10 @@
         ]
       },
       "de": {
-        "text": "ist",
+        "text": "(Es) ist",
         "phonetic": "/ɪst/",
         "synonyms": [
-          "sein (3. Sg.)"
+          "sein"
         ],
         "examples": [
           "Ist es weit von hier?"
@@ -2133,7 +2134,7 @@
     "id": 54,
     "translations": {
       "en": {
-        "text": "she, her, she'll",
+        "text": "she, her",
         "phonetic": "/ʃiː; hɜːr/",
         "synonyms": [
           "female pronoun"
@@ -2173,10 +2174,10 @@
     "id": 55,
     "translations": {
       "en": {
-        "text": "you're, aren't being, are",
+        "text": "you are",
         "phonetic": "/jʊr; ɑːr/",
         "synonyms": [
-          "you are"
+          "be"
         ],
         "examples": [
           "You’re very kind."
@@ -2213,7 +2214,7 @@
     "id": 56,
     "translations": {
       "en": {
-        "text": "he, him, it",
+        "text": "he, him",
         "phonetic": "/hiː; hɪm; ɪt/",
         "synonyms": [
           "male pronoun"
@@ -2254,7 +2255,7 @@
     "id": 57,
     "translations": {
       "en": {
-        "text": "you, you'll",
+        "text": "you",
         "phonetic": "/juː/",
         "synonyms": [
           "second-person pronoun"
@@ -2294,10 +2295,10 @@
     "id": 58,
     "translations": {
       "en": {
-        "text": "(it) eats, (?) do you eat, (she) eats",
-        "phonetic": "/iːts; duː juː iːt; ʃiː iːts/",
+        "text": "(she) eats",
+        "phonetic": "/ʃiː iːts/",
         "synonyms": [
-          "has (food)"
+          "consumes"
         ],
         "examples": [
           "She eats fruit every day."
@@ -2334,7 +2335,7 @@
     "id": 59,
     "translations": {
       "en": {
-        "text": "apple, block",
+        "text": "apple",
         "phonetic": "/ˈæpəl/",
         "synonyms": [
           "fruit"
@@ -2414,10 +2415,11 @@
     "id": 61,
     "translations": {
       "en": {
-        "text": "boy, child, kid",
+        "text": "boy",
         "phonetic": "/bɔɪ/",
         "synonyms": [
-          "lad"
+          "child",
+          "kid"
         ],
         "examples": [
           "The boy is playing in the park."
@@ -2454,7 +2456,7 @@
     "id": 62,
     "translations": {
       "en": {
-        "text": "man, bloke, guy",
+        "text": "man",
         "phonetic": "/mæn/",
         "synonyms": [
           "male",
@@ -2495,10 +2497,10 @@
     "id": 63,
     "translations": {
       "en": {
-        "text": "a, an, one",
+        "text": "a, an",
         "phonetic": "/ə; æn; wʌn/",
         "synonyms": [
-          "single"
+          "article (fem.)"
         ],
         "examples": [
           "I’d like a coffee, please."
@@ -2578,7 +2580,7 @@
         "text": "the, your, her",
         "phonetic": "/ðə; ðiː/",
         "synonyms": [
-          "definite article"
+          "article (fem./pl.)"
         ],
         "examples": [
           "The museum opens at ten."
@@ -2588,7 +2590,7 @@
         "text": "die",
         "phonetic": "/diː/",
         "synonyms": [
-          "bestimmter Artikel (Fem./Pl.)"
+          "Artikel (Fem./Pl.)"
         ],
         "examples": [
           "Die Bibliothek öffnet um zehn."
@@ -2598,7 +2600,7 @@
         "text": "la",
         "phonetic": "/la/",
         "synonyms": [
-          "artículo definido (fem.)"
+          "artículo (fem.)"
         ],
         "examples": [
           "La biblioteca abre a las diez."
@@ -2615,10 +2617,10 @@
     "id": 66,
     "translations": {
       "en": {
-        "text": "girl, child, daughter",
+        "text": "girl",
         "phonetic": "/ɡɜːrl/",
         "synonyms": [
-          "young girl",
+          "child",
           "daughter"
         ],
         "examples": [
@@ -2658,8 +2660,8 @@
     "id": 67,
     "translations": {
       "en": {
-        "text": "a, an, one",
-        "phonetic": "/ə; æn; wʌn/",
+        "text": "a, an",
+        "phonetic": "/ə; æn/",
         "synonyms": [
           "single"
         ],
@@ -2681,7 +2683,7 @@
         "text": "un",
         "phonetic": "/un/",
         "synonyms": [
-          "artículo indefinido (masc.)"
+          "artículo (masc.)"
         ],
         "examples": [
           "Vi un gato en el jardín."
@@ -2698,10 +2700,10 @@
     "id": 68,
     "translations": {
       "en": {
-        "text": "the, your, her",
+        "text": "the, her",
         "phonetic": "/ðə; ðiː/",
         "synonyms": [
-          "definite article"
+          "article (masc.)"
         ],
         "examples": [
           "The train leaves at nine."
@@ -2711,7 +2713,7 @@
         "text": "der",
         "phonetic": "/deːɐ̯/",
         "synonyms": [
-          "bestimmter Artikel (Mask.)"
+          "Artikel (Mask.)"
         ],
         "examples": [
           "Der Zug fährt um neun Uhr ab."
@@ -2721,7 +2723,7 @@
         "text": "el",
         "phonetic": "/el/",
         "synonyms": [
-          "artículo definido (masc.)"
+          "artículo (masc.)"
         ],
         "examples": [
           "El tren sale a las nueve."
@@ -2738,7 +2740,7 @@
     "id": 69,
     "translations": {
       "en": {
-        "text": "woman, wife, lady",
+        "text": "woman",
         "phonetic": "/ˈwʊmən/",
         "synonyms": [
           "female",
